@@ -1,6 +1,7 @@
 # FPT-Project
 
 Cafena Coffee Shop use MVC model, JSP, Servlet, JS to build, will update new in future
+
 Object access: user, staff, admin
 
 Application's features:
